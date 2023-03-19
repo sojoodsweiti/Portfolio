@@ -6,7 +6,10 @@ Since January 2022, I began learning and training about software quality assuran
 You can download my CV [as a PDF from Google Drive]( https://drive.google.com/file/d/1cZQ6c1qwWbyRhoaT3naLzI_fSID1GA-U/view?usp=share_link)
 ## Skills: 
 * Manual Testing 
+  * Can perform manual functional and usability testing of web applications and mobile applications.
+  * Gained hands-on experience by testing applications created for educational purposes and in companies.
 * API Testing 
+
 * Test Automation 
 * Test Documentation 
 * Exploratory Testing 
