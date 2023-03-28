@@ -30,6 +30,6 @@ You can download my CV [as a PDF from Google Drive]( https://drive.google.com/fi
 * JMeter
 * MS office 
 
-## Resources of knoladge 
+## Sources of knowledge
 * International Software Testing Qualifications Board [ISTQB Foundation level](https://istqb-main-web-prod.s3.amazonaws.com/media/documents/ISTQB-CTFL_Syllabus_2018_v3.1.1.pdf) 
 
