@@ -9,11 +9,8 @@ You can download my CV [as a PDF from Google Drive]( https://drive.google.com/fi
   * Gained hands-on experience by testing applications created for educational purposes and Real projects in companies.
 
 ## API Testing 
-   * Can perform API testing using Postman manually and by automation scripts in it,and automation testing using python and pytest 
-   * Gained hands-on experience by testing APIs created for educational purposes and Real APIs in Real projects  
-## Test Automation 
-## Test Documentation 
-## Exploratory Testing 
+   * Can perform API testing using Postman manually and by automation scripts in it, and automation testing using python and pytest. 
+   * Gained hands-on experience by testing APIs created for educational purposes and Real APIs in Real projects.  
 
 ## Examples of my work 
 * the documentation and test cases for DocuGen web application: [DocuGen Documentation ](https://docs.google.com/spreadsheets/d/1SDb2gBIfMpKjuarUiWaCZNa3mOe5iuofz1U1WybZMUw/edit?usp=sharing)
@@ -22,3 +19,17 @@ You can download my CV [as a PDF from Google Drive]( https://drive.google.com/fi
 * Exploratory testing for the educational application "Open Cart.com": [Notes and Bugs](https://github.com/mohammed-ibenayad/exploratory_testing_opencart/issues/created_by/sojoodsweiti)
 * API testing using Postman for the API challanges in herokuapp.com: [Postman collection](https://drive.google.com/file/d/1F6br4zt2p9-FPUumvohc6BiN-CZUeSbf/view?usp=sharing)
 * API testing for petstore.com using python and pytest: [API testing](https://github.com/sojoodsweiti/PetStoreFramework)
+
+## Tools 
+* Jira 
+* Postman
+* GitHub
+* Google drive
+* Google chrome
+* Slack
+* JMeter
+* MS office 
+
+## Resources of knoladge 
+* International Software Testing Qualifications Board [ISTQB Foundation level](https://istqb-main-web-prod.s3.amazonaws.com/media/documents/ISTQB-CTFL_Syllabus_2018_v3.1.1.pdf) 
+
