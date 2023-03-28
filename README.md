@@ -9,7 +9,7 @@ You can download my CV [as a PDF from Google Drive]( https://drive.google.com/fi
   * Gained hands-on experience by testing applications created for educational purposes and Real projects in companies.
 
 ## API Testing 
-   * Can perform API testing using Postman manually and by automation scripts in it and using python and pytest 
+   * Can perform API testing using Postman manually and by automation scripts in it,and automation testing using python and pytest 
    * Gained hands-on experience by testing APIs created for educational purposes and Real APIs in Real projects  
 ## Test Automation 
 ## Test Documentation 
